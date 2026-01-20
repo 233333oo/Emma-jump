@@ -1,7 +1,7 @@
 <template>
   <!-- 游戏开始时显示的界面 -->
   <div class="start-screen">
-    <h1>Doodle Jump</h1>
+    <h1>Emma Jump</h1>
     <p>使用 ← → 键或 A D 键移动角色</p>
     <button @click="startGame">开始游戏</button>
   </div>
